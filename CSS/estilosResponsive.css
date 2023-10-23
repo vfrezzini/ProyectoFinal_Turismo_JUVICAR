@@ -102,6 +102,8 @@ nav a:hover {/* como se ve cuando le pasamos el cursor por encima */
 		};
 	}
 
+	
+	
 	.contenedor-principal{
 		flex-direction: column;
 		nav{
