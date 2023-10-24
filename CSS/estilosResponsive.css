@@ -81,9 +81,9 @@ nav a:hover {/* como se ve cuando le pasamos el cursor por encima */
 }
 
 
-/* quito el responsive porque no esta funcionando
+
 @media (max-width:480px){ /* Cuando la ventana es menor a 480 pixeles por ejemplo tablet*/
-	/*
+
 	header{
 		flex-direction: column;
 		nav{
